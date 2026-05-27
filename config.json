@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfetch",
+        "uuid": 3819800,
+        "checksum": "st19wj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
